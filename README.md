@@ -124,5 +124,5 @@ https://docs.google.com/document/d/1o3cYma2p-Uoemh5izaklWVyc_gOo6Z0QJTaGIBlEArM/
 ## 📧 Contact
 For any queries or suggestions, contact:
 📩 Email: adityabhattacharya3002@gmail.com  
-📌 GitHub: [ADITYA BHATTACHARYA]([https://github.com/your-profile](https://github.com/ADITYA-BHATTACHARYA-DEV)])
+📌 GitHub: [ADITYA BHATTACHARYA:- ]([https://github.com/ADITYA-BHATTACHARYA-DEV])(https://github.com/ADITYA-BHATTACHARYA-DEV)
 
