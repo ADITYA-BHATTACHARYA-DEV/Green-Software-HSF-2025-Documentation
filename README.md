@@ -105,9 +105,9 @@ The script provides the following outputs:
 - Energy consumption (kWh)
 - Carbon emissions (kg CO₂)
 - Hardware resource usage details
-<br>
+
 ## Experiment Results
-<br>
+
 
 
 | Timestamp           | Project Name | Run-ID                                  | Duration (s) | Emissions (kgCO₂eq) | Emissions-Rate (kgCO₂eq/s) | CPU Power (W) | GPU Power (W) | RAM Power (W) | CPU Energy (kWh) | GPU Energy (kWh) | RAM Energy (kWh) | Energy Consumed (kWh) | Country | Country Code | Region | Cloud Provider | Cloud Region | OS | Python Version | CodeCarbon Version | CPU Count | CPU Model | GPU Count | GPU Model | Longitude | Latitude | RAM Total Size (GB) | Tracking Mode | On Cloud | PUE |
