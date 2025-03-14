@@ -105,10 +105,10 @@ The script provides the following outputs:
 - Energy consumption (kWh)
 - Carbon emissions (kg CO₂)
 - Hardware resource usage details
-
-## Experiment Results
 <br>
 ## Experiment Results
+<br>
+
 
 | Timestamp           | Project Name | Run-ID                                  | Duration (s) | Emissions (kgCO₂eq) | Emissions-Rate (kgCO₂eq/s) | CPU Power (W) | GPU Power (W) | RAM Power (W) | CPU Energy (kWh) | GPU Energy (kWh) | RAM Energy (kWh) | Energy Consumed (kWh) | Country | Country Code | Region | Cloud Provider | Cloud Region | OS | Python Version | CodeCarbon Version | CPU Count | CPU Model | GPU Count | GPU Model | Longitude | Latitude | RAM Total Size (GB) | Tracking Mode | On Cloud | PUE |
 |---------------------|-------------|-----------------------------------------|-------------|---------------------|--------------------------|--------------|--------------|--------------|----------------|----------------|----------------|-------------------|---------|--------------|--------|---------------|--------------|----|---------------|----------------|----------|------------|----------|------------|-----------|----------|------------------|--------------|---------|-----|
@@ -122,10 +122,16 @@ The script provides the following outputs:
 | 2024-04-14T11:01:17 | 3CABTP      | e1798a45-8078-41ff-a654-2ae084fd66ad   | 4.649629116 | 1.33E-06            | 2.86E-07                 | 12.5         | 0            | 2.766777992  | 1.61E-05       | 0              | 3.57E-06       | 1.97E-05          | France  | FRA          |         |               |              | Linux | 3.11.7          | 2.3.4              | 4        | Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz | 0        | -          | 2.3387    | 48.8582  | 7.38               | Machine       | N       | 1   |
 
 
-
+<br>
 
 ![download (1)](https://github.com/user-attachments/assets/e0ececc2-9440-4cfd-9ef2-ca984f1ddd72)
+
+<br>
+
 ![download (2)](https://github.com/user-attachments/assets/62aa3064-9584-4bd5-8ded-8e8451e61dac)
+
+<br>
+
 ![download (3)](https://github.com/user-attachments/assets/dc1bb6f0-868a-41c5-b152-5100020684dd)
 
 
