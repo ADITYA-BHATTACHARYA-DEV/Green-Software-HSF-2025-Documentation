@@ -106,6 +106,14 @@ The script provides the following outputs:
 - Carbon emissions (kg CO₂)
 - Hardware resource usage details
 
+## Experiment Results
+
+| Run-ID                                  | Experiment-ID                          | Duration (s) | Emissions (kgCO₂eq) | Emissions-Rate (kgCO₂eq/s) | CPU Power (W) | RAM Power (W) | CPU Energy (kWh) | RAM Energy (kWh) | Energy Consumed (kWh) |
+|-----------------------------------------|---------------------------------------|-------------|---------------------|--------------------------|--------------|--------------|----------------|----------------|-------------------|
+| cbdba861-93c8-4999-befb-825fa0fa106a   | 5b0fa12a-3dd7-45bb-9766-cc326314d9f1 | 4.764563    | 1.60E-05            | 3.35E-06                 | 42.5         | 0.110868     | 5.58E-05       | 1.45E-07       | 5.60E-05          |
+| e2422456-6076-4940-894b-dba02f76c5f5   | 5b0fa12a-3dd7-45bb-9766-cc326314d9f1 | 4.455262    | 1.49E-05            | 3.35E-06                 | 42.5         | 0.111108     | 5.22E-05       | 1.36E-07       | 5.23E-05          |
+| 0cf0c38e-fab8-4c48-afe4-1079cd957cfa   | 5b0fa12a-3dd7-45bb-9766-cc326314d9f1 | 5.119229    | 2.07E-05            | 4.04E-06                 | 42.5         | 0.114919     | 7.23E-05       | 1.94E-07       | 7.25E-05          |
+
 
 
 ![download (1)](https://github.com/user-attachments/assets/e0ececc2-9440-4cfd-9ef2-ca984f1ddd72)
