@@ -7,6 +7,10 @@ By monitoring energy usage and carbon emissions, this project helps in understan
 
 ---
 
+![dd1a3c80-258e-11eb-89dd-87fd3e35039c](https://github.com/user-attachments/assets/fd5ab1bc-a473-47a1-8f2d-f8de93a791c5)
+![1_FTw5KFD6ApDigX1J1i4KhA](https://github.com/user-attachments/assets/57539772-34b4-4c49-b449-9d72bfe10e81)
+
+
 ## 🛠 Installation Guide
 
 ### 🔹 Prerequisites
